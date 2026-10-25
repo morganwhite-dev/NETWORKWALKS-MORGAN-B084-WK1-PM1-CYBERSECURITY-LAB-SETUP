@@ -131,7 +131,7 @@ This lab is for education only. I only test systems I own or have written permis
 
 **Morgan White**, Cybersecurity Professional B084
 
-LinkedIn: TODO: add your profile link
+LinkedIn: https://www.linkedin.com/in/morgan-white-26059a205
 
 ## 📌 Project Information
 
